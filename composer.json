@@ -1,0 +1,12 @@
+{
+    "name": "samzuckerberg/search-courses",
+    "description": "Package that search videos by api",
+    "type": "library",
+    "authors": [
+        {
+            "name": "samzuckerberg",
+            "email": "samzuckerberg.jar@gmail.com"
+        }
+    ],
+    "require": {}
+}
